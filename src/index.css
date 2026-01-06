@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.input {
+  @apply w-full border border-gray-300 rounded-lg px-10 py-2 mt-4 
+  focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white;
+}
+
+.label {
+  @apply text-sm font-medium text-gray-600 mt-4 block;
+}
+
+.error {
+  @apply text-red-500 text-xs mt-1;
+}
