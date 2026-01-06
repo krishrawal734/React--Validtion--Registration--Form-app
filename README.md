@@ -1,16 +1,36 @@
-# React + Vite
+https://react-validtion-registration-form-a.vercel.app/
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/e8f6e70a-a664-4c0a-b3c7-0dbd3fb7a123" />
+# React Validation Registration Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **React registration form** with client-side validation. This project showcases form validation techniques in React — preventing invalid submissions and giving useful feedback to the user.  
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+Try it live: https://react-validtion-registration-form-a.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🧠 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✔ Built with React (functional components)  
+✔ Real-time validation for form fields  
+✔ Error messages shown for invalid or empty input  
+✔ Prevents form submission until all fields are valid  
+✔ Lightweight, simple to customize  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ What’s Inside
+
+This form typically includes:
+
+- Text input fields (e.g., name, username)
+- Email input with proper pattern validation
+- Password and confirm password validation
+- Inline error messages for every invalid input  
+- Submit button enabled only when all validations pass  
+- Basic styling for form components
+
+---
+
+## 🚀 Getting Started
+
