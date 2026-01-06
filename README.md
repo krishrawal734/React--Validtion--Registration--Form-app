@@ -1,5 +1,5 @@
 https://react-validtion-registration-form-a.vercel.app/
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/e8f6e70a-a664-4c0a-b3c7-0dbd3fb7a123" />
+<img width="1920" height="951" alt="screencapture-react-validtion-registration-form-a-vercel-app-2026-01-06-19_10_53" src="https://github.com/user-attachments/assets/374c3d79-3819-4255-829d-061103ed24dc" />
 # React Validation Registration Form
 
 A simple and interactive **React registration form** with client-side validation. This project showcases form validation techniques in React — preventing invalid submissions and giving useful feedback to the user.  
